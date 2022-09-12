@@ -1,0 +1,13 @@
+body {
+    display: flex;
+    background-image: url(https://fondosmil.com/fondo/52894.jpg);
+}
+
+.form-control{
+    margin-bottom: 5px;
+}
+
+.card-body h5{
+    margin-bottom: 15px;
+
+}
